@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=welcome!✨%20&fontSize=90)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkumylove&layout=compact&card_width=445&hide=html,css)](https://github.com/dkumylove)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkumylove&show_icons=true&theme=transparent&card_width=445)](https://github.com/dkumylove)

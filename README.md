@@ -10,11 +10,24 @@
 dkumylove/dkumylove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=welcome!🌱%20&fontSize=90)
 
-## 💻 Once I've Used
+## 📑 DEV's & log
+<div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/dkumylove/Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-00A8E1?style=flat"> 
+    </a>
+    <a href="https://blog.naver.com/dkumylove">
+        <img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=&logoColor=white"> 
+    </a>
+
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dani0817)](https://velog.io/@dani0817)-->
+</div><br>
+
+## 🎯  Once I've Used
 ### ✍️ Language
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
@@ -96,12 +109,6 @@ You can click the Preview link to take a look at your changes.
     </div>    
 </div><br>
 
-    
-    
-
-
-
-
   
 ## 📝 Learning
 
@@ -111,5 +118,15 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkumylove%2Fhit-counter&count_bg=%23BE98D8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:dkumylove@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/s5QdnQqe">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
+    </a>
+</div>
 
 </div>

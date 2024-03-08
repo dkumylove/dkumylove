@@ -15,13 +15,15 @@ You can click the Preview link to take a look at your changes.
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=welcome!🌱%20&fontSize=90)
 
+# 🌳신입개발자, 이지은입니다.
+
 ## 📑 DEV's & log
 <div style="display:flex; flex-direction:row;">
+     <a href="https://www.notion.so/jieunroom/c554de74356a434e9d32fd4cd06d07d7?pvs=4">
+        <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=flat&logo=notion&logoColor=white"> 
+    </a>
     <a href="https://github.com/dkumylove/Portfolio">
         <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=flat&logo=github&logoColor=white"> 
-    </a>
-    <a href="https://www.notion.so/jieunroom/c554de74356a434e9d32fd4cd06d07d7?pvs=4">
-        <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=flat&logo=notion&logoColor=white"> 
     </a>
     <a href="https://blog.naver.com/dkumylove">
         <img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"> 

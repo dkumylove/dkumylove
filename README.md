@@ -18,10 +18,13 @@ You can click the Preview link to take a look at your changes.
 ## 📑 DEV's & log
 <div style="display:flex; flex-direction:row;">
     <a href="https://github.com/dkumylove/Portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-00A8E1?style=flat"> 
+        <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=flat&logo=github&logoColor=white"> 
+    </a>
+    <a href="https://www.notion.so/jieunroom/c554de74356a434e9d32fd4cd06d07d7?pvs=4">
+        <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=flat&logo=notion&logoColor=white"> 
     </a>
     <a href="https://blog.naver.com/dkumylove">
-        <img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=&logoColor=white"> 
+        <img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=naver&logoColor=white"> 
     </a>
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dani0817)](https://velog.io/@dani0817)-->

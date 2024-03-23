@@ -53,6 +53,11 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat&logo=&logoColor=white">
     </div>
     <div>
+         <img src="https://img.shields.io/badge/JSP-FF160B?style=flat&logo=Java&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/Servlet-FF160B?style=flat&logo=Java&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/JPA-1572B6?style=flat&logo=&logoColor=white">
+         <img src="https://img.shields.io/badge/Querydsl-1572B6?style=flat&logo=&logoColor=white">
+    <div>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
